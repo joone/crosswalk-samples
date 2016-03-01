@@ -1,0 +1,17 @@
+{
+    "start_url": "http://media.tojicode.com/q3bsp/",
+    "short_name": "quack3webgldemo",
+    "icons": [
+        {
+            "src": "/wikipedia/en/4/4c/Quake1cover.jpg",
+            "sizes": "288x334"
+        },
+        {
+            "src": "/images/general/linux/tux-48x48.png",
+            "sizes": "48x48"
+        }
+    ],
+    "display": "fullscreen",
+    "orientation": "any",
+    "name": "Quake 3 WebGL Demo"
+}
